@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "808650475332",
+    "firebase_url": "https://predictor-2b61c.firebaseio.com",
+    "project_id": "predictor-2b61c",
+    "storage_bucket": "predictor-2b61c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808650475332:android:c20794cea78c5a85927911",
+        "android_client_info": {
+          "package_name": "com.touchizen.drawerwithbottomnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808650475332-igutpgelglcgkb0q74sevte113dgjl9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.touchizen.drawerwithbottomnavigation",
+            "certificate_hash": "895cdae8fc829e93c9738f76164df82611cb2cac"
+          }
+        },
+        {
+          "client_id": "808650475332-re805o5e0enppon36s15avuqrb06lev1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBW7kxWiUu8aNdsmVtg4GonI_eUVUI6HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808650475332-re805o5e0enppon36s15avuqrb06lev1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

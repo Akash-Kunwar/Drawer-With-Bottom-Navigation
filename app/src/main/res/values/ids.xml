@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dream11" type="id"/>
+    <item name="gamezy" type="id" />
+    <item name="ballebazi" type="id" />
+    <item name="nostra" type="id" />
+</resources>
